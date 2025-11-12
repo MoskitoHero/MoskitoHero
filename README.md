@@ -5,7 +5,7 @@ My name is Cédric Delalande, I am a ruby developer and devops.
 You can find out more about me on my [website](https://www.moskitohero.com) and read my [blog](https://www.moskitohero.com/blog).
 
 ### 🌞 What I'm up to
-- 🧑‍🏭 Work: Backend developer at [Perfect Memory](https://www.perfect-memory.com) since january 2025
+- 🧑‍🏭 Work: Backend developer at [Happydemics](https://www.happydemics.com) since october 2025
 - 🌐 OSS: Working on improving the [Barley](https://github.com/MoskitoHero/barley) gem
 - 🧔 Personal: Reading [The Software Engineer Guidebook](https://www.engguidebook.com) by Gergely Orosz
 - 🌱 Learning: [Gleam](https://gleam.run)
